@@ -9,7 +9,7 @@ ID,status,title
 6,Done,Decaying Crypt
 8,Done,Gloomhaven Warehouse
 9,Close,Diamond Mine
-7,Open,Vibrant Grotto
+7,Done,Vibrant Grotto
 10,Open, Plane of Elemental Power
 13,Open,Temple of the Seer
 14,Done,Frozen Hollow
@@ -20,3 +20,4 @@ ID,status,title
 70,Open,Chained Isle
 26,Open,Ancien Citern
 37,Open,Doom Trench
+20,Open,Necromancer's Sanctum
