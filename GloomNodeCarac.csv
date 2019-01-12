@@ -14,11 +14,17 @@ ID,status,title
 13,Done,Temple of the Seer
 14,Done,Frozen Hollow
 15,Open,Shrine of Strength
+16,Open, Mountain Pass
+18,Open,Abandoned Sewers
 19,Open,Forgotten Crypt
+20,Done,Necromancer's Sanctum
+26,Open,Ancien Citern
+28,Open,Outer Ritual Chamber
 31,Close,Plane of Night
+37,Open,Doom Trench
 43,Done,Drake Nest
 93,Done,Sunken Vessel
 70,Open,Chained Isle
-26,Open,Ancien Citern
-37,Open,Doom Trench
-20,Open,Necromancer's Sanctum
+
+
+
