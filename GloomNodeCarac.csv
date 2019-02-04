@@ -18,15 +18,19 @@ ID,status,title
 18,Open,Abandoned Sewers
 19,Open,Forgotten Crypt
 20,Done,Necromancer's Sanctum
-24,Open,Echo Chamber
+24,Done,Echo Chamber
 25,Open,Icecrag Ascent
 26,Open,Ancien Citern
 28,Open,Outer Ritual Chamber
 31,Close,Plane of Night
+30,Open,Shrine of the Depths
+32,Open,Decrepit Wood
 37,Open,Doom Trench
 43,Done,Drake Nest
-93,Done,Sunken Vessel
+67,Open,Arcane Library
 70,Open,Chained Isle
+93,Done,Sunken Vessel
+
 
 
 
