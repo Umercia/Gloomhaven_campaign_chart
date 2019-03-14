@@ -10,7 +10,7 @@ ID,status,title
 8,Done,Gloomhaven Warehouse
 9,Close,Diamond Mine
 7,Done,Vibrant Grotto
-10,Open, Plane of Elemental Power
+10,Done, Plane of Elemental Power
 13,Done,Temple of the Seer
 14,Done,Frozen Hollow
 15,Open,Shrine of Strength
@@ -18,6 +18,8 @@ ID,status,title
 18,Open,Abandoned Sewers
 19,Done,Forgotten Crypt
 20,Done,Necromancer's Sanctum
+21,Open,Infernal Throne
+22,Open,Temple of the Elements
 24,Done,Echo Chamber
 25,Done,Icecrag Ascent
 26,Open,Ancien Citern
